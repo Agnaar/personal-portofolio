@@ -1,0 +1,16 @@
+ .foto-profil{
+    border-radius: 50%;
+  }
+
+  .jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+  }
+  
+  #certificates, #projects {
+    background-color: #e2edff;
+  }
+  
+  section {
+    border: none;
+  }
